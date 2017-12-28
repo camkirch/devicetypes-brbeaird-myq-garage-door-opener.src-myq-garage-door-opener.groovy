@@ -1,0 +1,1 @@
+# devicetypes-brbeaird-myq-garage-door-opener.src-myq-garage-door-opener.groovy
